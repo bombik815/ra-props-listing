@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-props-listing/static/css/main.d3e8f81d.css",
+    "main.js": "/ra-props-listing/static/js/main.160d3a16.js",
+    "index.html": "/ra-props-listing/index.html",
+    "main.d3e8f81d.css.map": "/ra-props-listing/static/css/main.d3e8f81d.css.map",
+    "main.160d3a16.js.map": "/ra-props-listing/static/js/main.160d3a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e8f81d.css",
+    "static/js/main.160d3a16.js"
+  ]
+}
