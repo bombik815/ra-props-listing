@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/mx17q3957yuoimkg/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-props-listing/branch/main)
 
 [Список предложений](https://bombik815.github.io/ra-props-listing/)
 
